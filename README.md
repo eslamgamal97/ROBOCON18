@@ -16,6 +16,8 @@ it contains two robots:
 
 The rule book of ABU ROBOCON 2018 : https://drive.google.com/drive/folders/1KZH7Yge-xKRkF7iNsdmjWJpmvtSysd9R?usp=sharing
 
+The link of ROBOCON18 theme : https://www.youtube.com/watch?v=_QsOxRj4-gk
+
 written by eslam gamal elsayed.
 
 Email: eslamgamal.201441@gmail.com
