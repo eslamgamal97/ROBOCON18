@@ -1,7 +1,7 @@
 # ROBOCON18
 ABU ROBOCON 2018 competition
 
-competition abjective : handling shuttlecocks and throwing them through rings.
+competition objective : handling shuttlecocks and throwing them through rings.
 
 it contains two robots:
 
